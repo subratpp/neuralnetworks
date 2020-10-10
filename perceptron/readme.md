@@ -1,6 +1,7 @@
 
 # Perceptron from Scratch
-Name: Subrat Prasad Panda
+Name: Subrat Prasad Panda 
+
 Problem: To build perceptron from scratch and use *i.IRIS* and *ii.self generated dataset* for training and testing of model.
 
 ## Dependencies:
