@@ -1,0 +1,1 @@
+Accuracy on Test Data: 100.0% | Cross Entropy Error: 0.047570094461726484
