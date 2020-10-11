@@ -5,8 +5,6 @@ Implemetation of Multi Layer Neural Networks from the scratch.
 
 Training and Testing of model on MNIST and IRIS datasets
 
-*The (.py) file is also included here.*
-
 ## 0. Datasets
 
 Please download the MNIST dataset(train.csv, test.csv) from the following link and put it inside `/datasets/` folder:
@@ -69,6 +67,9 @@ The plots in .pdf format is also available inside the `/accuracy/` folder.
 - Accuracy on Test Data: **100%**
 - Cross Entropy Error: 0.047570094461726484
 
+![IRIS Training Plot](accuracy/images/irisdata_traininingPlot.jpg)
+
+
 ### 3.2 MNIST:
 
 **Training:**
@@ -76,6 +77,8 @@ The plots in .pdf format is also available inside the `/accuracy/` folder.
 - Accuacy: 99.98333333333333%
 - Cross Entropy Error: 0.004626357640353235
 - Trainig PLot: `accuracy/mnist/mnistdata_trainingPlot.pdf`
+
+![MNIST Training Plot](accuracy/images/mnistdata_traininingPlot.jpg)
 
 
 **Testing:**
@@ -102,7 +105,7 @@ test_error, test_accuracy = mnist_nn.test_model( test_data, test_label, test_lab
 
 ## 5. Kaggle Results
 
-![Kaggle Results Screeshot](kaggle_result.jpg)
+![Kaggle Results Screeshot](kaggle_submission/kaggle_result.jpg)
 
 
 
