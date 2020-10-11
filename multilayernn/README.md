@@ -62,12 +62,7 @@ The plots in .pdf format is also available inside the `/accuracy/` folder.
 
 - Accuacy: 98.33333333333333%
 - Cross Entropy Error: 0.06866785386882872 
-
-<object data="/accuracy/iris/irisdata_trainingPlot.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/accuracy/iris/irisdata_trainingPlot.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view training plot: <a href="/accuracy/iris/irisdata_trainingPlot.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+- Trainig PLot: `accuracy/iris/irisdata_trainingPlot.pdf`
 
 **Testing:**
 
@@ -80,8 +75,8 @@ The plots in .pdf format is also available inside the `/accuracy/` folder.
 
 - Accuacy: 99.98333333333333%
 - Cross Entropy Error: 0.004626357640353235
+- Trainig PLot: `accuracy/mnist/mnistdata_trainingPlot.pdf`
 
-![Model View Controller](/accuracy/iris/mnistdata_trainingPlot.pdf)
 
 **Testing:**
 
