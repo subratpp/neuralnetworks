@@ -21,7 +21,9 @@ The multi layer NN is developed from scratch and applied on MNIST dataset.
 - The error function used is Cross Entropy Error
 - The model achieves 97% accuracy of test data from Kaggle MNIST test data.
 
-## 3. Upcoming Projects:
+## 3. CNN from Scratch: 
+
+## 4. Upcoming Projects:
 - Meta Networks from Scratch
 - Minibatch GD
 - Adam
